@@ -15,8 +15,7 @@ This course is designed with the intention of familiarizing the student(s) with 
     - To be submitted through Github
 
 ## Course material
-In-class and take-home exercises are posted through Jupyter notebooks or available as python scripts. They are numbered by week.
-
+In-class and take-home exercises are posted through Jupyter notebooks or available as Python scripts. They are numbered by week and will be all available in this Github folder. Towards the end of the course, we will tackle basic LaTeX typesetting and math mode, where the choice of TeX editor is up to you. 
 
 ## Syllabus and course topics
 - Python (3 weeks)
