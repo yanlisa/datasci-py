@@ -122,7 +122,9 @@ git merge upstream/master
     conda install scikit-learn
     ```
 
-1. Verify that everything works. In one terminal, type in ```ipython notebook``` and verify that it automatically starts something in your browser. In another terminal, type in ```python``` and verify that it can interpret simple addition, e.g., ```1 + 2<enter>```.
+1. Verify that everything works. In one terminal, type in ```jupyter notebook``` and verify that it automatically starts something in your browser. In another terminal, type in ```python``` and verify that it can interpret simple addition, e.g., ```1 + 2<enter>```.
+
+1. Note that in practice, you want to navigate to your desired folder (i.e., the one that has all the course materials in it) and then run ```jupyter notebook```. This saves you the navigation info. Then you keep your jupyter notebook running in a separate window.
 
 ## 3. LaTeX
 
