@@ -9,12 +9,16 @@ import time
 '''
 Exercise 1:
 Write a function that prints out the current time in military time.
+Input: nothing
+Returns: nothing
 '''
 # define and write your function here
 
 '''
 Exercise 2:
 Write a function that prints out the current time in hh:mm AM or hh:mm PM.
+Input: nothing
+Returns: nothing
 '''
 # define and write your function here
 
@@ -23,9 +27,14 @@ Exercise 3:
 Write a function that, given a day, month, and year,
 returns a list of MM/DD/YY hh:00 (24-hour clock) 
 for every single hour during the day.
-
 Create a time object using the function arguments and manipulate
 it to create your list.
+
+Input:
+  day: an integer
+  month: an integer
+  year: an integer
+Returns: list of strings
 '''
 # define and write your function here
 
@@ -36,6 +45,8 @@ each element on a different line.
 
 Then use this function to print out the list you generated
 in exercise 3.
+Input: list of strings
+Returns: nothing
 '''
 # define and write your function here
 

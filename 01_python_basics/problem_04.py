@@ -1,6 +1,6 @@
 '''
 Write out a program that recursively crawls a target directory
-and lists out all the subdirectories, files, and folders.
+and prints out all the subdirectories, files, and folders.
 
 Once the program is done executing, it should be in the same
 directory from which the python program was run. You do not have

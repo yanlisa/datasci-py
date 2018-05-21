@@ -11,6 +11,10 @@ def max_list_positive(items):
       max_item = item
   return max_item
 
+def simple_max_list(items):
+  # edit the below line by returning a call to the max() function
+  return [] # delete this line and replace
+
 ##### For problem 2
 def factorial_iter(n):
   if n < 1: return 0
