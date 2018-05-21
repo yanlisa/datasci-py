@@ -18,20 +18,20 @@ This course is designed with the intention of familiarizing the student(s) with 
 In-class and take-home exercises are posted through Jupyter notebooks or available as Python scripts. They are numbered by week and will be all available in this Github folder. Towards the end of the course, we will tackle basic LaTeX typesetting and math mode, where the choice of TeX editor is up to you. 
 
 ## Syllabus and course topics
-- Python (3 weeks)
+- Python (2 weeks)
     - Week 1:
         - Set-up and coding environment and GitHub (Windows)
         - Interpreters vs scripts
         - Review of variables, control flow, and variable scope
-        - Lists
-    - Week 2:
         - Functions
-        - String manipulation
         - Using the Python documentation
-    - Week 3:
+        - Lists
+        - Recursion
+    - Week 2:
+        - String manipulation
+        - Advanced Data Structures: Dictionaries, Sets, Tuples
         - Reading CSVs
-        - Dictionaries
-        - JSON files
+        - Using Numpy for basic statistics
 - Numpy, SciPy (1 week)
     - Arrays (and matrix multiplication, like dot products) and broadcasting
     - Using the numpy documentation
