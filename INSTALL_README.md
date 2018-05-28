@@ -94,7 +94,10 @@ More description [here](https://reflectoring.io/github-fork-and-pull/):
 
 ```
 # add the original repository as remote repository called "upstream"
-git remote add upstream https://github.com/OWNER/REPOSITORY.git
+git remote add upstream https://github.com/yanlisa/datasci-py.git
+# if you messed up,
+# git remote rm upstream
+# and then add it again with the previous command
 
 # fetch all changes from the upstream repository
 git fetch upstream

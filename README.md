@@ -38,6 +38,7 @@ In-class and take-home exercises are posted through Jupyter notebooks or availab
     - np.random
     - np.histogram
     - Image manipulation (as an application of arrays)
+    - Using Matplotlib for scatter plots
 - Matplotlib (2 weeks)
     - Week 1:
         - Basics (scatter, line, box plots, plotting parameters)
