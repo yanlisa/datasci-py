@@ -19,7 +19,7 @@ def load_pokemon(pokemon_fpath):
   headers = []
   type_set = set()
 
-  with open(pokemon_fpath, 'r') as f:
+  with open(pokemon_fpath , 'r', encoding='cp932', errors='ignore') as f:
     headers = f.readline().strip().split(',')
     poke_headers = [headers[0], 'Mega'] + headers[2:4] + \
         headers[-2:] + headers[4:11]
