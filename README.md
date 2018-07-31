@@ -51,11 +51,11 @@ In-class and take-home exercises are posted through Jupyter notebooks or availab
     - Use LaTeX to write answers to problem sets
 - Statistics (2 weeks)
     - Week 1:
-    - Mean, variance, standard error
-    - Hypotheses and the t-test
+        - Mean, variance, standard error
+        - Hypotheses and the t-test
     - Week 2:
-    - Confidence intervals
-    - Bootstrapping
+        - Confidence intervals
+        - Bootstrapping
 - Basics of machine learning/optimization (1 week+)
     - Linear regression
     - Loss functions and gradient descent
